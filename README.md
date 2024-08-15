@@ -1,2 +1,2 @@
-# Project-C
- Doing something
+# Diabetes Prediction Model
+ 
